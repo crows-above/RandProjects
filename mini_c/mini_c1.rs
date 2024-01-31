@@ -222,14 +222,4 @@ fn main() {
 
 
 
-// Main Inteface | Interi
-// Mail | Weather | Settings | Quit
-// first asks you to create a username and password
-// C -> F converter in Weather?
-// Log-in functionality? using file io, if file ... has ... written on it, then a log in screen
-//      will prompt
-// At the start, maybe ask you to login or create a new user
-// neofetch
-// interacts with real terminal
-// Using tabs, make everything print in the center of a full screen terminal
-// save sent messages
+// The mock-up draft
