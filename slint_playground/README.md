@@ -1,1 +1,1 @@
-Just messing around with the slint window crate!! *^* 
+Just messing around with the slint window crate!! \*^\* 
