@@ -1,0 +1,13 @@
+Item 1 {
+	Song: Reflected Light
+
+	Artist: SergePavkinMusic
+
+	Source: pixabay.com
+
+	Artist's policy: 
+	Hi, you can use my music for free in your YouTube Videos and Shorts, TikTok Short Videos, Facebook/Instagram Reels (use my tracks from Facebook/Instagram/TikTok audio library).
+	In regular Facebook/Instagram videos (not Reels), the sound may be muted for reasons beyond my control.
+	NOT for songs, apps, music libraries!
+	NOT for distribution to copyright management systems (digital fingerprint systems), including Content ID, Meta Audio Library, etc.!
+}
