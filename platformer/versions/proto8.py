@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 grav_timer = 0
 keytimer = [0,0]
 
-pygame.mixer.music.load("/home/hedron/Code/pythonities/games/platformer/assets/reflected-light.mp3")
+pygame.mixer.music.load("/home/hedron/Code/pythonities/games/platformer/assets/reflected-light.mp3") # !!!!!! For the github viewers, change this path !!!!!!!
 pygame.mixer.music.play(-1,0.0)
 
 # Game objects
