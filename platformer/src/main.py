@@ -92,5 +92,5 @@ while True:
 # proto9:
 # Added a blur mechanic, and removed the resize mechanic, added support for wasd (without the s) 
 # Controls: Arrow keys to move | A to grow larger (x), D to grow smaller (x), S to grow larger (y), C to grow smaller (y)
-# Ideas: I'd like to imagine the shade that follows your character as your characters dead sibling whos helping you on your journey. Don't ask me why I'm giving pink little cubes a storyline, I don't even know myself
+# Ideas: I'd like to imagine the shade that follows your character as the ghost of your characters dead sibling whos helping you on your journey. Don't ask me why I'm giving pink little cubes a storyline, I don't even know myself
 # The game mechanics still feel pretty clunky :/
