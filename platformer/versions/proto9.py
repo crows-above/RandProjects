@@ -12,7 +12,7 @@ clock = pygame.time.Clock()
 grav_timer = 0 # for acceleration
 keytimer = [0,0] # for acceleration
 
-pygame.mixer.music.load("/home/hedron/Music/ascension.mp3")
+pygame.mixer.music.load("/home/hedron/Music/ascension.mp3") # !!!!!! For the github viewers, change this path !!!!!!!
 pygame.mixer.music.play(-1,0.0)
 
 # Game objects
