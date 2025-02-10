@@ -24,10 +24,10 @@ int main() {
     }
     printf("]\n");
 
-    insertion_sort(A, 6);
+    insertion_sort(A, size);
 
     printf("Post: [ ");
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < size; i++) {
         printf("%d ", A[i]);
     }
     printf("]\n");
